@@ -1,9 +1,9 @@
-# [Basic Ports And Services](ports)
-# [Basic Tools And Use-cases](tools)
-# [Basic Attack Types And Descriptions](attacks)
-# [Basic Nmap Flags](nmap)
-# [Hashing/encryption algorithms](hash_crypto)
-# [Others](others)
+# [Basic Ports And Services](ports.md)
+# [Basic Tools And Use-cases](tools.md)
+# [Basic Attack Types And Descriptions](attacks.md)
+# [Basic Nmap Flags](nmap.md)
+# [Hashing/encryption algorithms](hash_crypto.md)
+# [Others](others.md)
 
 ---
 ## OSI
