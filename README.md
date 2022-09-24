@@ -1,0 +1,1 @@
+These are my notes for the CEH v11 exam. The information is based on Viktor Afimov's exam preparation course on [Udemy](https://www.udemy.com/share/104Cs43@K8VC7T_QYkuy5oSZbjj9V6fixUFm7J0lpnWpmJ4ewFBVy0TN63fgt-UNdIxwH3Hx/). Not everything is covered here, only the topics that was not clear for me. Feel free to extend these notes.
