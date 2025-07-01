@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "84c10b1924de685d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a911d9a3766654b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4626265f74eb6a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ports.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28fe3559b5499dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "017df43bf9c11a96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0aec4cd98bfbc68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33624e23ef68357c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7ee4c210da07618",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2355c81eac3bd24b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b02293d1526df7e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1f5052c22dfcf42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ports.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "296523b626451890",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ports.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd6f3e6347831b74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5254d3ca6048eec3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ports.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4626265f74eb6a39",
+  "lastOpenFiles": [
+    "summary.md",
+    "others.md",
+    "README.md",
+    "hash_crypto.md",
+    "attacks.md",
+    "nmap.md",
+    "ports.md",
+    "tools.md",
+    "Basic.md"
+  ]
+}

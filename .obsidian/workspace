@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "84c10b1924de685d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4626265f74eb6a39",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ports.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a7a42064fffe76d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f8142d1b5c0c628",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2c842bb5f74aca0a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "01bd4a782782dd4e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2f9abedf8a8c9244",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7ed76ae3b9f9d782",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef65ec335a7d9ee8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ports.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "aa8dca7a1484e497",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "ports.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7d2899beb5be14fa",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "ports.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4626265f74eb6a39",
+  "lastOpenFiles": [
+    "summary.md",
+    "others.md",
+    "README.md",
+    "hash_crypto.md",
+    "attacks.md",
+    "nmap.md",
+    "ports.md",
+    "tools.md",
+    "Basic.md"
+  ]
+}
